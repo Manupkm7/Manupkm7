@@ -53,4 +53,6 @@ Apasionado por los videojuegos, diseño,y el desarrollo.
 ----------------------- 
 <a href="https://instagram.com/manu_pkm" target="blank">Instagram</a>
 </p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manupkm7)](https://github.com/anuraghazra/github-readme-stats)
+
