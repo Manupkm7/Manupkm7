@@ -1,57 +1,40 @@
-### ✨Hola✨
 
-Apasionado por los videojuegos, diseño,y el desarrollo.
+        
+<h2> Hey there! I'm Manuel Espinoza. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-*Si no tienes conocimiento sobre alguna de las tecnologias haz click en alguno de los logos*
-<h3>Lenguajes y tecnologias</h3>
-<p align="left">
-  
-*Con Conocimientos*
+<h3> 👨🏻‍💻 About Me </h3>
 
------------------------
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 💼 &nbsp; Full-stack web developer, React & Node.
+- 🌱 &nbsp; Enthusiast in cyber Security.
+- ✍️ &nbsp; Play video games and try the latest design trends as hobbies.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress.
 
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
------------------------
-  
-*Aprendiendo*
+<h3>🛠 Tech Stack</h3>
 
------------------------
+- 💻 &nbsp; HTML | CSS | JavaScript | Next Js | React 
+- 🌐 &nbsp; Android | Typescript
+- 🛢 &nbsp; MySQL | MongoDB | PostgreSql
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git
+- 🖥 &nbsp; Adobe Xd | Adobe Illustrator | Adobe Photoshop | Figma
 
-<a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-<a href="https://graphql.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  
------------------------
+<br>
 
-*Los que uso por hobbie*
+<!-- ![souvik's Github Stats](https://github-readme-stats.vercel.app/api?username=devSouvik&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=manupkm7&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats">
 
------------------------
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-<a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
-<a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
------------------------
+</br>
 
 
-<h3 align="left">Contactame:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/manuel-espinoza-pkm/" target="blank">Linkedin</a>
------------------------ 
-<a href="https://instagram.com/manu_pkm" target="blank">Instagram</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manupkm7&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/manupkm7/github-readme-stats)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp;
+&nbsp; <a href="https://www.instagram.com/manupkm7/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.linkedin.com/in/manuel-espinoza-pkm/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:espinozavictormanuel76@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manupkm7)](https://github.com/anuraghazra/github-readme-stats)
-
