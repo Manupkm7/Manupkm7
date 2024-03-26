@@ -34,7 +34,7 @@
 
 <p align="center">
 &nbsp;
-&nbsp; <a href="https://www.instagram.com/manupkm7/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/manu_pkm/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/manuel-espinoza-pkm/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:espinozavictormanuel76@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
